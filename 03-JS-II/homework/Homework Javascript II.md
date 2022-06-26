@@ -1,0 +1,13 @@
+for: Es una sentencia que permite ejecutar una sentencia simple o compuesta repetidamente un
+numero de veces conocido.
+
+&&: El operador And o el Y es un operador logico que permite evaluar 2 expresiones y devolvera 
+verdadero si ambas expresiones son verdaderas, si uno o ambos es falso devolvera falso.
+
+||: El operador Or o O es un operador logico que permite evaluar 2 expresiones y devolvera ver-
+dadero si una o ambas expresiones son true y solo devolvera falso en el caso de que ambas ---
+expresiones sean falso.
+
+!: El operador Not o No es un operador logico que funciona asi si tienes inicialmente una ----
+expresion verdadera devolvera una expresion falsa como resultado y si  la expresion es falsa 
+inicialmente devolvera una expresion verdadera.

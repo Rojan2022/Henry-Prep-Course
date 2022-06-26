@@ -1,0 +1,24 @@
+Variables: Es una forma de almacenar en un elemento valores que van cambiando de valor conforme 
+se usan en un programa aunque tambien hay variables que ya tienen valores definidos y no se 
+pueden cambiar por ejemplo PI=3.1416.
+
+Strings: Son variables que contienen cadenas de caracteres como por ejemplo: Hola, Martinez, 123 
+etc...
+
+Funciones: Son un tipo particular de objetos que pueden ser invocadas para realizar una operaci-
+on.
+
+Argumentos: son variables que se declaran en los parentesis de la funcion que se pueden usar
+despues como argumentos para obtener un valor determinado en algun momento de un programa.
+
+Return: Es una sentencia que se usa para salir de la ejecucion de las sentencias de un metodo
+y tambien se usa opcionalmente para devolver un valor en una parte de determinado programa. 
+
+Declaraciones if: estas declaraciones se usan para crear expresiones condicionales esto es para
+evaluar 1, 2 o mas expresiones que retornen un valor verdadero o falso  en base  a una comparaci-
+on  de expresiones por ejemplo: if(numero > 10 ) escribir en pantalla numero es mayor a 10 
+y conducir el flujo de un programa en una direccion o otra.
+
+Valores booleanos: Son variables que solo pueden contener 2 valores true = 1 o false = 0 y se 
+utilizan para que un programa haga algo en base a un resultado true o false.
+

@@ -1,0 +1,3 @@
+Arrays: Son contenedores donde podemos almacenar colecciones de datos de un mismo tipo o de 
+diferentes tipos. Por ejemplo si quisieramos crear una matriz para guardar nombres de  diferentes 
+colores podriamos hacerlo de la siguiente manera: const diferentesColores = ['Azul', 'Amarillo', 'Blanco','Verde','Rojo']; esto crea una matriz con valores previamente establecidos.

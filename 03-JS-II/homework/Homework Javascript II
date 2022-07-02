@@ -11,3 +11,4 @@ expresiones sean falso.
 !: El operador Not o No es un operador logico que funciona asi si tienes inicialmente una ----
 expresion verdadera devolvera una expresion falsa como resultado y si  la expresion es falsa 
 inicialmente devolvera una expresion verdadera.
+

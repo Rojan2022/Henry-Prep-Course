@@ -1,0 +1,25 @@
+/* Objetos: Basicamente los objetos son contenedores que pueden incluir mucha informacion sobre una 
+sola cosa. Un ejemplo podria ser: 
+const usuario = { 
+nombredeusuario: 'Lucia', 
+contraseña: Luc2022,
+pasatiempo: 'leer',
+color favorito: 'cafe'};. 
+Aqui nos podemos dar cuenta de que tenemos creado un 
+objeto con diferente informacion sobre una persona. */
+
+/* Propiedades: Son aquellas caracteristicas que tiene un objeto que lo distingue de otro como por --
+ ejemplo un objeto persona: que puede tener propiedades o caracteristicas que la distinguen de otras 
+ personas como el nombre completo, domicilio donde vive, edad, dni, fecha de nacimiento, hobbi, etc..
+
+ /*Metodos: Los metodos son los que permiten a un objeto a un objeto actuar de determinada manera 
+ cuando recibe un mensaje vinculado con ese metodo.
+
+ /*Bucle for in: Este es un iterador que recorre cada clave dentro de un objeto y finaliza su 
+ iteracion cuando hallan iterado todas las claves del objeto.
+
+ /* Notacion de punto vs notacion de corchetes: Con la notacion con punto podemos llamar al nombre
+ del objeto usando un punto y el nombre de la clave o propiedad del objeto. Y la notacion con corchetes
+ es como llamar a un elemento de una matriz pero cuando se usa esta notacion debemos usar una cadena
+ o numero o una variable que apunte a una cadena o numero. Se puede llamar a la clave  usando corchetes
+y envolviendola en comillas simples.

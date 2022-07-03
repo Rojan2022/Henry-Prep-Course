@@ -1,0 +1,3 @@
+Prototype: Es la forma en que las clases tienen la forma de establecer un metodo una vez y dar acceso a cada objeto de esa clase a los metodos.
+
+Constructor (de clases): Este es un metodo especial para crear e inicializar un objeto creado con una clase y solo puede haber un metodo especial con el nombre constructor en una clase. Si hubiera mas de una ocurrencia a un constructor habria un error de sintaxis.

@@ -1,0 +1,1 @@
+Funciones Callback: A la capacidad de pasar una funcion como argumento a otra funcion se le llama callback y estas funciones pueden llamarse en cualquier momento en un programa y pasar argumentos dentro de la funcion.

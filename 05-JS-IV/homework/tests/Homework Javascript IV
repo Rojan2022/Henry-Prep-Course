@@ -22,4 +22,4 @@ objeto con diferente informacion sobre una persona. */
  del objeto usando un punto y el nombre de la clave o propiedad del objeto. Y la notacion con corchetes
  es como llamar a un elemento de una matriz pero cuando se usa esta notacion debemos usar una cadena
  o numero o una variable que apunte a una cadena o numero. Se puede llamar a la clave  usando corchetes
-y envolviendola en comillas simples.
+y envolviendola en comillas simples. */

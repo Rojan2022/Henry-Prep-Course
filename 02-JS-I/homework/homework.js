@@ -75,8 +75,14 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
- return str1.length === str2.length; 
-}
+ //return str1.length === str2.length; 
+ if(str1.length === str2.length){
+  return true;
+ }
+ else{
+  return false;
+ }
+} 
 
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
@@ -257,14 +263,15 @@ function esVocal(letra){
   //Escribe tu código aquí
   if (letra.lenght > 1)
   {
-   return "Dato incorrecto"
+   return "Dato incorrecto";
   }
   if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u")
   {
-    return "Es vocal"
+    return "Es vocal";
   }
-  return "Dato incorrecto"
+  return "Dato incorrecto";
 }
+
 
 
 
@@ -305,4 +312,5 @@ module.exports = {
   areaDelTriangulo,
   deEuroAdolar,
   esVocal,
-};
+ };
+

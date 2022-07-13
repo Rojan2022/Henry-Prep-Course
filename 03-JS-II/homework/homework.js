@@ -100,8 +100,6 @@ function esDiezOCinco(numero) {
   {
     return false;
   }
-  
-
 }
 
 function estaEnRango(numero) {
@@ -123,6 +121,7 @@ function esEntero(numero) {
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
   return numero % 1 === 0;
+  
 }
 
 function fizzBuzz(numero) {
@@ -135,7 +134,7 @@ function fizzBuzz(numero) {
   if (numero % 5 === 0) return "buzz";
   return numero;
   }
-  
+ 
 function operadoresLogicos(num1, num2, num3) {
   //La función recibe tres números distintos. 
   //Si num1 es mayor a num2 y a num3 y además es positivo, retornar ---> "Número 1 es mayor y positivo"
@@ -203,7 +202,7 @@ function tablaDelSeis(){
     arraytablaDelSeis.push(6 * i)
   }   
   return arraytablaDelSeis  
-}
+} 
 
 function tieneTresDigitos(numero){
   //Leer un número entero y retornar true si tiene 3 dígitos. Caso contrario, retorna false.
@@ -227,7 +226,8 @@ function doWhile(numero) {
     a = a + 5;
   }
   while(i < 8);
-  return a;
+  return a; 
+  
 }
 
 
